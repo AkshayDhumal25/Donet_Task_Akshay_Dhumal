@@ -61,8 +61,17 @@ namespace Donet_Task_Akshay_Dhumal
             //dt.NonPrimitiveTypes();
 
 
+            // String_StringBuilder_StringInterpolation ************************************************
+            //String_StringBuilder_StringInterpolation sss = new String_StringBuilder_StringInterpolation();
+            //sss.Strings();
+            //sss.stringInterpolation();
+            //sss.stringBuilder();
 
+            // List and Methods
 
+            List_methods lm = new List_methods();
+
+            lm.listMethods();
         }
 
     }
