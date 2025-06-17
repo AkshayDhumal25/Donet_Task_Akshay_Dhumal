@@ -53,6 +53,12 @@ namespace Donet_Task_Akshay_Dhumal
             //mo.speak();
 
 
+            //WAPforPrimitivevsNonPrimitivetypes **********************************************************
+
+            //DataTypes dt = new DataTypes();
+            //dt.PrimitiveTypes();
+            //Console.WriteLine();
+            //dt.NonPrimitiveTypes();
 
 
 
@@ -60,4 +66,4 @@ namespace Donet_Task_Akshay_Dhumal
         }
 
     }
-}
+};
