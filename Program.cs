@@ -67,11 +67,17 @@ namespace Donet_Task_Akshay_Dhumal
             //sss.stringInterpolation();
             //sss.stringBuilder();
 
-            // List and Methods
+            // List and Methods **************************************************************
 
-            List_methods lm = new List_methods();
+            //List_methods lm = new List_methods();
 
-            lm.listMethods();
+            //lm.listMethods();
+
+            // Lambda Expression
+            Lambda_Expression le = new Lambda_Expression();
+            le.evenNumbers();
+               
+
         }
 
     }
