@@ -74,10 +74,14 @@ namespace Donet_Task_Akshay_Dhumal
             //lm.listMethods();
 
             // Lambda Expression
-            Lambda_Expression le = new Lambda_Expression();
-            le.evenNumbers();
-               
+            //Lambda_Expression le = new Lambda_Expression();
+            //le.evenNumbers();
 
+
+            // Ref Out Parameters 
+            Ref_Out_Parameters rop = new Ref_Out_Parameters();
+            rop.refParameter();
+            rop.outParameter();
         }
 
     }
