@@ -95,6 +95,26 @@ namespace Donet_Task_Akshay_Dhumal
 
 
             //difference between var vs dynamic vs object******************************************
+            //var_dynaic_object vdo = new var_dynaic_object();
+            //vdo.print();
+            //Console.WriteLine("Implemented the object here");
+
+
+            // Logicals *****************************************************************************
+            logicals lg = new logicals();
+            //lg.secondHighest();
+            //lg.reverseInteger();
+            //lg.swapValues();
+            //lg.anagram();
+            //lg.stringReverse();
+            //lg.missingElements();
+            //lg.Palindrome();
+            //lg.Fibonacci_With_Recursion();
+            //lg.Fibonacci_Without_Recursion();
+            //lg.PrimeNumbers();
+
+
+
 
         }
 

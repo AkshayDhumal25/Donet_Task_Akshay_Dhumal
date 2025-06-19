@@ -21,7 +21,7 @@ namespace Donet_Task_Akshay_Dhumal
             dynamic name = "Akshay Dhumal";
             Console.WriteLine($"Name  : {name}");
             name = 21;
-
+            Console.WriteLine($"Name  {name}");
         }
     }
 }
